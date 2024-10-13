@@ -1,5 +1,6 @@
 # Decription
 This is where I will be documenting different projects I work on as my career in cyber security progresses. I will also add adtional information such as tryhackme rank and brief ctf walkthroughs.
+![TryHackMe](https://github.com/fgarz1/fgarz1.github.io/blob/main/badge)
 
 # secuirty operations center (SOC)
 
