@@ -1,14 +1,4 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+This is where I will be documenting different projects I work on as my career in cyber security progresses. I will also add adtional information such as tryhackme rank and brief ctf walkthroughs.
 
 # secuirty operations center (SOC)
 
