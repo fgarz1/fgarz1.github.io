@@ -1,5 +1,6 @@
 # Decription
 This is where I will be documenting different projects I work on as my career in cyber security progresses. 
+update-tryhackme-badge.yml
 
 # secuirty operations center (SOC)
 
