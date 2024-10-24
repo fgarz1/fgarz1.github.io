@@ -1,6 +1,8 @@
 # Decription
 This is where I will be documenting different projects I work on as my career in cyber security progresses. 
-update-tryhackme-badge.yml
+
+# Badges
+![tryhackme stats](https://raw.githubusercontent.com/<fgarz1>/fgarz1>/fgarz124.png)
 
 # secuirty operations center (SOC)
 
