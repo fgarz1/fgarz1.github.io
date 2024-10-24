@@ -2,7 +2,7 @@
 This is where I will be documenting different projects I work on as my career in cyber security progresses. 
 
 # Badges
-![tryhackme stats](https://raw.githubusercontent.com/<fgarz1>/fgarz1>/fgarz124.png)
+![tryhackme stats](https://github.com/fgarz1/fgarz1.github.io/blob/main/fgarz124.png)
 
 # secuirty operations center (SOC)
 
